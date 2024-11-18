@@ -10,7 +10,7 @@ public class AppMain {
         ogrenciList.add("Şadiye");
         ogrenciList.add("Mert");
         ogrenciList.add("Mustafa");
-        ogrenciList.add("Fatih");
+        ogrenciList.add("Fatih"); 
         ogrenciList.add("Ebru");
         ogrenciList.add("Kenan");
         ogrenciList.add("Mahir");
